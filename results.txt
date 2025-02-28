@@ -1,0 +1,16 @@
+Traditional VAE Training Loss: 15858.732421875
+Expanding VAE Training Loss: 9907.2060546875
+Expanding VAE performed better.
+Traditional VAE Training Loss: 15858.732421875
+Expanding VAE Training Loss: 9945.107421875
+Expanding VAE performed better.
+Traditional VAE Training Loss: 15858.732421875
+Expanding VAE Training Loss: 9580.943359375
+Expanding VAE performed better.
+Traditional VAE Training Loss: 15858.732421875
+Expanding VAE Training Loss: 9942.9375
+Expanding VAE performed better.
+Traditional VAE Training Loss: 15858.732421875
+Expanding VAE Training Loss: 9719.443359375
+Expanding VAE performed better.
+
